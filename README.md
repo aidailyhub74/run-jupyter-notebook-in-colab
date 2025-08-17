@@ -14,6 +14,10 @@
 
 🎥 Watch the step-by-step video: [Run Jypyter Notebook in Colab](https://www.youtube.com/watch?v=vWMVZNXpB60)
 
+## 💡 Follow us for more such content:
+WhatsApp Channel 👉 https://whatsapp.com/channel/0029VbAYVpaHQbS74BUruk0X
+Telegram Channel 👉 https://t.me/+6jdRLJzZRZExMzJl
+
 ## Explore More AI/ML Support  
 
 Need help beyond this tutorial? Visit **AI Daily Hub** 🌐 https://aidailyhub.com — for:  
