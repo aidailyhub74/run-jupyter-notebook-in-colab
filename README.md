@@ -12,7 +12,7 @@
 6. After installing, refresh the page.  
 7. Double-click the file, and it will now open by default in **Google Colab** 🚀.
 
-🎥 Watch the step-by-step video: [Run Jypyter Notebook in Colab](https://www.youtube.com/watch?v=vWMVZNXpB60)
+🎥 Watch the step-by-step video: [Run Jypyter Notebook in Colab](https://youtu.be/bL_6M9Po6nk)
 
 ## 💡 Follow us for more such content:
 - WhatsApp Channel 👉[Link](https://whatsapp.com/channel/0029VbAYVpaHQbS74BUruk0X)
