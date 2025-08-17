@@ -10,4 +10,15 @@
 4. In the search bar, type **Colaboratory** and press Enter.  
 5. From the suggestions, open **Colaboratory** and install the app.  
 6. After installing, refresh the page.  
-7. Double-click the file, and it will now open by default in **Google Colab** 🚀.  
+7. Double-click the file, and it will now open by default in **Google Colab** 🚀.
+
+🎥 Watch the step-by-step video: [Run Jypyter Notebook in Colab](https://www.youtube.com/watch?v=vWMVZNXpB60)
+
+## Explore More AI/ML Support  
+
+Need help beyond this tutorial? Visit **AI Daily Hub** 🌐 https://aidailyhub.com — for:  
+
+- ✅ AI/ML Project help & development (end-to-end solutions)  
+- ✅ Interview preparation services  
+- ✅ Workshops, seminars & tailored courses  
+- ✅ Resume & portfolio creation services  
